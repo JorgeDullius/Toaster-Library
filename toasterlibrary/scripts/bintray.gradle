@@ -20,8 +20,8 @@ bintray {
     key = properties.getProperty("bintray.apikey")
 
     pkg {
-        repo = 'toasterlibrary'
-        name = 'jorge.dullius.toasterlibrary'
+        repo = 'Toaster-Library'
+        name = 'Toaster-Library'
         configurations = ['archives']
         desc = 'An android library.'
         websiteUrl = 'https://github.com/JorgeDullius/Toaster-Library'
